@@ -1,11 +1,9 @@
 <h1 align="center" style="font-style: italic; text-align: center;" markdown="1"> :wave: Hi there, I’m Yash Kedar</h1>
 
-<a href="https://github.com/NyaNekko">
-<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NyaNekko&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="center"/>
-</a>
-<a href="https://github.com/NyaNekko">
-<img height="200em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NyaNekko&layout=compact&langs_count=10&theme=dark" align="center"/>
-</a>
+<div align="center">
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=NyaNekko&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=NyaNekko&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+</div>
 
 <br/>
 <h3 align="center">Languages and Tools:</h3>
