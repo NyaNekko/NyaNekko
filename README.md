@@ -1,4 +1,10 @@
-<h1 align="center" style="font-style: italic; text-align: center;" markdown="1"> :wave: Hi there, I’m Yash Kedar</h1>
+<div align="center">
+<a href="https://github.com/NyaNekko/NyaNekko/blob/main/profile.gif">
+  <img src="https://github.com/NyaNekko/NyaNekko/blob/main/profile.gif" alt="GIF" style="width:950px; height:350px"/>
+</a>
+</div>
+
+<h1 align="center" style="font-style: italic; text-align: center;" markdown="1">I’m Yash Kedar</h1>
 
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=NyaNekko&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
@@ -8,10 +14,10 @@
 <br/>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma,pycharm,c,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,kali,arch,ubuntu,python,javascript,mysql,dotnet,pwsh" /><br>
+    <img src="https://skillicons.dev/icons?i=java,htmx,debian,neovim,atom" /><br>
 </div>
 <hr>
 <p align="left">
