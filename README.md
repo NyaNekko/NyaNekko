@@ -84,9 +84,3 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<a> 
-    <a href="https://github.com/NyaNekko"><img alt="Starks's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NyaNekko&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/NyaNekko"><img alt="Stark's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NyaNekko&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
