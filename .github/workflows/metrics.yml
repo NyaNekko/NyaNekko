@@ -22,7 +22,7 @@ jobs:
 
           user: NyaNekko
 
-          base: header, activity, community, repositories, metadata
+          base: header, activity
 
           commits_authoring: all
 
